@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534603679189",
+    "firebase_url": "https://collegerevamp-6ed25.firebaseio.com",
+    "project_id": "collegerevamp-6ed25",
+    "storage_bucket": "collegerevamp-6ed25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534603679189:android:1646a3756041417d06295c",
+        "android_client_info": {
+          "package_name": "com.octovalley.collegerevamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534603679189-ged0jn5ebd9kousn5cms7ae3lmv3b5bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwSiUpS-LXEbcSnz6yEqTASmCtq950iLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534603679189-ged0jn5ebd9kousn5cms7ae3lmv3b5bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
